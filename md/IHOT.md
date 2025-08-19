@@ -1,0 +1,18 @@
+# 【iHOT系列】台标PNG文件
+|频道名|台标图片|频道名|台标图片|
+|:---|:---:|:---|:---:|
+|iHOT爱院线|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱院线.png" width="300" height="180">|iHOT爱科幻|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱科幻.png" width="300" height="180">|
+|iHOT爱喜剧|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱喜剧.png" width="300" height="180">|iHOT爱奇谈|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱奇谈.png" width="300" height="180">|
+|iHOT爱探索|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱探索.png" width="300" height="180">|iHOT爱解密|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱解密.png" width="300" height="180">|
+|iHOT爱科学|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱科学.png" width="300" height="180">|iHOT爱猎奇|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱猎奇.png" width="300" height="180">|
+|iHOT爱浪漫|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱浪漫.png" width="300" height="180">|iHOT爱历史|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱历史.png" width="300" height="180">|
+|iHOT爱动漫|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱动漫.png" width="300" height="180">|iHOT爱电竞|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱电竞.png" width="300" height="180">|
+|iHOT爱玩具|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱玩具.png" width="300" height="180">|iHOT爱悬疑|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱悬疑.png" width="300" height="180">|
+|iHOT爱体育|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱体育.png" width="300" height="180">|iHOT爱赛车|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱赛车.png" width="300" height="180">|
+|iHOT爱世界|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱世界.png" width="300" height="180">|iHOT爱极限|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱极限.png" width="300" height="180">|
+|iHOT爱旅行|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱旅行.png" width="300" height="180">|iHOT爱美食|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱美食.png" width="300" height="180">|
+|iHOT爱家庭|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱家庭.png" width="300" height="180">|iHOT爱青春|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱青春.png" width="300" height="180">|
+|iHOT爱时尚|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱时尚.png" width="300" height="180">|iHOT爱娱乐|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱娱乐.png" width="300" height="180">|
+|iHOT爱都市|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱都市.png" width="300" height="180">|iHOT爱谍战|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱谍战.png" width="300" height="180">|
+|iHOT爱经典|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱经典.png" width="300" height="180">|iHOT爱江湖|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱江湖.png" width="300" height="180">|
+|iHOT爱怀旧|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱怀旧.png" width="300" height="180">|iHOT爱幼教|<img src="https://raw.githubusercontent.com/love599/TVLogo/main/logo/iHOT/iHOT爱幼教.png" width="300" height="180">|
