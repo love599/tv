@@ -27,7 +27,7 @@ https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz
 https://gitee.com/taksssss/tv/raw/main/epg/epgpw_hk.xml.gz
 https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz
 ```
-### TVlogo
+### 电视台标
 > 所有资源来自网络，收集整理只为学习交流，未经版权方同意不得商用，私自商用而引发的问题本人概不负责，谢谢理解！如本仓库中部分内容存在侵权行为，欢迎留言联系我删除。
 
 > 中国
